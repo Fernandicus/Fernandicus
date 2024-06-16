@@ -43,16 +43,7 @@ I'm a **Fullstack Developer** with over **3 years of experience** working in sta
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandicus&show_icons=true&theme=radical)
-
 ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fernandicus&repo=observer-container&theme=radical)](https://github.com/Fernandicus/observer-container)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fernandicus&repo=another-repo&theme=radical)](https://github.com/Fernandicus/another-repo)
-
-## 🌐 Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando_González_Rionda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gonzalez-rionda/)](https://www.linkedin.com/in/fernando-gonzalez-rionda/)
-[![Gmail Badge](https://img.shields.io/badge/-fernando.gonzalez.rionda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.gonzalez.rionda@gmail.com)](mailto:fernando.gonzalez.rionda@gmail.com)
