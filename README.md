@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Fernandicus) 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando_González_Rionda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gonzalez-rionda/)](https://www.linkedin.com/in/fernando-gonzalez-rionda/)
-[![Gmail Badge](https://img.shields.io/badge/-fernando.gonzalez.rionda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.gonzalez.rionda@gmail.com)](mailto:fernando.gonzalez.rionda@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fernanprojects@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernanprojects@gmail.com)](mailto:fernanprojects@gmail.com)
 
 ## 🚀 About Me
 
@@ -13,7 +13,7 @@ I'm a **Fullstack Developer** with over **3 years of experience** working in sta
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced TypeScript patterns and performance optimization.
 - 💬 Ask me about web development, TypeScript, React, Node.js, and cloud computing.
-- 📫 How to reach me: [fernando.gonzalez.rionda@gmail.com](mailto:fernando.gonzalez.rionda@gmail.com)
+- 📫 How to reach me: [fernanprojects@gmail.com@gmail.com](mailto:fernanprojects@gmail.com@gmail.com)
 - ⚡ Fun fact: I love contributing to open-source and learning new technologies.
 
 ## 🛠️ Tech Stack
