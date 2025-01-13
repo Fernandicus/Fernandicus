@@ -1,6 +1,6 @@
 # Hi there, I'm Fernando 👋</h1>
 
-### Full Stack developer from Spain 🇪🇸</h3>
+### Front-End Developer from Spain 🇪🇸</h3>
 
 <a href="https://linkedin.com/in/fernando-gonzalez-rionda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-gonzalez-rionda" height="20" width="30" /></a>
 <a href="mailto:fernanprojects@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="fernando-gonzalez-rionda" height="30" width="30" /></a>
